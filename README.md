@@ -1,8 +1,8 @@
-# openglCube
+# OpenGLCube
 Interactive Rubik's Cube written using OpenGL(c++)
 
-*** Note ***
-  Solution links to glfw3.lib and opengl32.lib
+************
+  Solution links to glfw3.lib and opengl32.lib  
   Project setup guide can be found at https://learnopengl.com/Getting-started/Creating-a-window
 ************
 
@@ -27,4 +27,4 @@ Interactive Rubik's Cube written using OpenGL(c++)
   
   X - Randomly shuffle cube for 30 turns  
   
-  <esc> - Close window
+  \<esc\> - Close window
